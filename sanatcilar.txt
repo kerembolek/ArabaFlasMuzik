@@ -1,0 +1,3 @@
+# Her satira sadece bir sanatci adi yaz.
+# Basinda # olan satirlar okunmaz. Kaydedip sanatci-indir.bat dosyasina cift tikla.
+

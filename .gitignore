@@ -1,0 +1,12 @@
+# Muzik dosyalari repoya girmez
+*.mp3
+*.webm
+*.m4a
+*.opus
+*.part
+*.ytdl
+MP3/
+KARISIK/
+UZUN/
+_gecici/
+hatalar.txt

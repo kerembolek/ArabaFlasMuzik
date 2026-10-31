@@ -1,0 +1,3 @@
+# Her satira bir video linki yaz. Uzun videolar tek dosya olarak iner.
+# Basinda # olan satirlar okunmaz. Kaydedip link-indir.bat dosyasina cift tikla.
+
