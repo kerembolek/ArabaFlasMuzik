@@ -48,4 +48,4 @@ Bu aracı yalnızca kullanım hakkına sahip olduğun içerikler için kullan. T
 
 ## Lisans
 
-[MIT](LICENSE)
+Kaynak kodu görünürdür ama açık kaynak değildir: kişisel ve ticari olmayan kullanım serbesttir; şirkette kullanmak, satmak veya dağıtmak yazılı izin gerektirir. Ayrıntılar [LICENSE](LICENSE) dosyasındadır. `42e398d` commit'ine kadarki sürüm MIT Lisansı altında kalır.
